@@ -6,7 +6,7 @@ The application simulates evolution of animals in a selected map scenario. Certa
 
 ![image](https://user-images.githubusercontent.com/66325429/226616841-a1b18b50-9f77-47c2-a7e0-6604b0514fec.png)
 
-##Technologies Used
+## Technologies Used
 - Java
 - JavaFX
 
